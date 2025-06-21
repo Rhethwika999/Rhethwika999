@@ -18,7 +18,7 @@
 ---
 
 ## 🧍 About me
-👋 Hi, I’m Rhethwika Narayanan Kutty — a Data Science & Analytics graduate from the University of Leeds, ex-Data Engineer at Accenture, and a passionate coder who transforms complex data into clear, impactful insights using Python, R, SQL, and cloud tools.
+👋 Hi, I’m Rhethwika Narayanan Kutty — a Data Science & Analytics graduate from the University of Leeds, ex-Data Engineer at Accenture, and a passionate coder who transforms complex data into clear, impactful insights using Python, R, SQL, cloud and visualization tools.
 
 ## 💡 Technical Expertise
 
