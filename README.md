@@ -50,6 +50,43 @@
 
 ---
 
+## 🚀 Main Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Time Series Analysis of UK Air pollution Data</h3>
+<div align="center">
+  <a href="https://github.com/Rhethwika999/Time-Series-Analysis-of-UK-air-pollution" target="_blank">
+  </a>
+  <p>
+    <strong>A time series and spatial analysis project forecasting UK nitrogen dioxide levels in Greenwich and Hillington using SARIMA, VAR, and weather-based multivariate models.
+
+  </p>
+  <a href="https://github.com/Rhethwika999/Time-Series-Analysis-of-UK-air-pollution" target="_blank">
+    <img src="https://img.shields.io/badge/View_Project-0A84FF?style=for-the-badge"/>
+  </a>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">Image classification and captioning using neural networks</h3>
+<div align="center">
+  <p>
+    <strong>A deep learning project combining CNNs and RNNs to classify images and generate descriptive captions using subsets of Tiny ImageNet and COCO datasets.
+
+  </p>
+  <a href="https://github.com/Rhethwika999/Image-classification-and-captioning-using-neural-networks" target="_blank">
+     <img src="https://img.shields.io/badge/View_Project-0A84FF?style=for-the-badge"/>
+  </a>
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+
 
 ## 🛠️ Tech Stack
 
