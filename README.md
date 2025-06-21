@@ -74,14 +74,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Courses & Certifications
+🎓 Microsoft Office Specialist: Excel Associate
+Certified by Microsoft
 
+🤖 Advanced Data Science and AI Program
+Certified by IBM · Conducted by Learnbay
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhethwika999&layout=compact&theme=tokyonight&hide_border=true" width="50%" alt="Most Used Languages"/>
-</div>
-
+🐍 Programming, Data Structures, and Algorithms using Python
+Certified by NPTEL · Offered by IIT Madras
 ---
 
 
