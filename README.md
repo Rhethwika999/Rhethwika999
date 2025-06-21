@@ -75,15 +75,16 @@
 ---
 
 ## 📚 Courses & Certifications
+  
 🎓 Microsoft Office Specialist: Excel Associate
 Certified by Microsoft
 
 🤖 Advanced Data Science and AI Program
 Certified by IBM · Conducted by Learnbay
 
-🐍 Programming, Data Structures, and Algorithms using Python
+🐍 Programming, DataStructure and Algorithms using Python
 Certified by NPTEL · Offered by IIT Madras
----
+
 
 
 ## 📊 DataPill Wisdom
