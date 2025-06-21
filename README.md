@@ -2,7 +2,7 @@
   
   ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=200&section=header&text=Rhethwika%20Narayanan%20Kutty&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35)
 
-  ## Data Scientist | Data Engineer | Data Analyst | Python Developer
+## Data Scientist | Data Engineer | Data Analyst | Python Developer
 
 
   [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rhethwika999/)
@@ -32,15 +32,15 @@
 </tr>
 <tr>
   <td><strong>Programming</strong></td>
-  <td>Python · R · Pandas · NumPy ·  PyTorch·  Tensorflow</td>
+  <td>Python · R · Pandas · NumPy ·  PyTorch · Tensorflow</td>
 </tr>
 <tr>
   <td><strong>Cloud & ETL</strong></td>
-  <td>AWS · Azure ·Databricks·  ETL Pipelines</td>
+  <td>AWS · Azure · Databricks · ETL Pipelines</td>
 </tr>
 <tr>
   <td><strong>Core Competency </strong></td>
-  <td>Data Cleaning · Statistical Modelling· Machine learning algorithms· Data Visualizations</td>
+  <td>Data Cleaning · Statistical Modelling · Machine learning algorithms · Data Visualizations</td>
 </tr>
 
   </table>
@@ -85,7 +85,7 @@
 ---
 
 
-## 🔴 RedPill Wisdom
+## 📊 DataPill Wisdom
 
 > *"You take the data pill... you enter a world where every number tells a story, and I show you how deep the insight rabbit hole goes."*
 
