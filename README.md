@@ -79,7 +79,7 @@
 🎓 Microsoft Office Specialist: Excel Associate
 Certified by Microsoft
 
-🤖 Advanced Data Science and AI Program
+🤖 Advanced Data Science and AI Program ( 1 year program)
 Certified by IBM · Conducted by Learnbay
 
 🐍 Programming, DataStructure and Algorithms using Python
