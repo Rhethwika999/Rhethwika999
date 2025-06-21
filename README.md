@@ -9,8 +9,8 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vinaya-prasad-r-4a77401a7/](https://www.linkedin.com/in/rhethwika-narayanan-kutty/))
 
 
-  ![Typing Animation](![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Data+Scientist;SQL+Expert;Python+Developer;Power+BI+Specialist;)
-)
+(![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Data+Scientist;SQL+Expert;Python+Developer;Power+BI+Specialist;)
+
   
 
 </div>
