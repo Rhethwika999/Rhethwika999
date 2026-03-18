@@ -70,7 +70,7 @@
 </td>
 
 <td width="50%">
-<h3 align="center">Image classification and captioning using neural networks</h3>
+<h3 align="center">UK Insurance Data Performance Analysis and Forecasting</h3>
 <div align="center">
   <p>
     <strong> The UK home insurance market is analysed to identify factors influencing premiums, claims, and profitability. Data from 2012 to 2024 is used to assess trends in policy volumes, pricing, and claims, along with key metrics such as loss ratio and claim severity. The impact of external factors and differences between new and renewal business are also evaluated to support forecasting and pricing strategies.
