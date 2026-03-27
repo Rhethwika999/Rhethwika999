@@ -32,7 +32,7 @@
 </tr>
 <tr>
   <td><strong>Programming</strong></td>
-  <td>Python · R · Pandas · NumPy ·  PyTorch · Tensorflow</td>
+  <td>Python · R · Pandas · NumPy ·  Matplotlib · Seaborn</td>
 </tr>
 <tr>
   <td><strong>Cloud & ETL</strong></td>
@@ -40,7 +40,7 @@
 </tr>
 <tr>
   <td><strong>Core Competency </strong></td>
-  <td>Data Cleaning · Statistical Modelling · Machine learning algorithms · Data Visualizations</td>
+  <td>Data Cleaning · Statistical Modelling · Data Visualizations · Machine learning algorithms</td>
 </tr>
 
   </table>
